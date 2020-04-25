@@ -49,7 +49,8 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column{
   display: grid;
-  width: 30%;
+  rid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px;
 }
 /* create your tile classes! we recommend .small .med .large */
 .small{
