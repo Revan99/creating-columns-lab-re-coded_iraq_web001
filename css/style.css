@@ -60,6 +60,7 @@ img:hover {
   min-width: 66%;
 }
 .large{
-  
+  min-height: 100%;
+  min-width: 100%;
 }
  
